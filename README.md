@@ -5,11 +5,11 @@
 🔭 I’m passionate about applying quantitative analysis and data-driven approaches to solve complex real-world problems.
 
 💡 **My Expertise:**
-- **Quantitative Analysis:** Leveraging statistical methods to derive meaningful insights.
-- **Data Science & Analysis:** Transforming data into actionable intelligence.
-- **Programming:** Proficient in Python, R, and other tools for data manipulation and analysis.
+- **Quantitative Analysis:** Utilizing maths and stats to derive quant models.
+- **Data Science:** Transforming and analyzing data into story.
+- **Programming:** Proficient in Python, Julia, SQL, bash for data manipulation and analysis.
 - **Quantitative Finance:** Applying mathematical models to financial data.
-- **Physics:** Deep understanding of fundamental physics principles.
+- **Physics:** Strong background in basic physics principles.
 
 📫 **Reach Out:** arnobmukherjee1988@gmail.com
 
