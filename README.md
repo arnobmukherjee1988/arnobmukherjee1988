@@ -11,7 +11,7 @@
 - **Quantitative Finance:** Applying mathematical models to financial data.
 - **Physics:** Strong background in basic physics principles.
 
-📫 **Reach Out:** arnobmukherjee1988@gmail.com
+✉️ **Email:** arnobmukherjee1988@gmail.com
 
 📊 **GitHub Stats:**
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnobmukherjee1988)](https://github.com/arnobmukherjee1988/github-readme-stats)  
