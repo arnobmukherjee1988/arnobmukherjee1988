@@ -2,7 +2,7 @@
 
 🔬 **Physics PhD | Quantitative Analysis & Data Science Enthusiast**
 
-🔭 I’m interested applying quantitative analysis and data-driven approaches to solve complex real-world problems.
+🔭 I’m interested in applying quantitative analysis and data-driven approaches to solve complex real-world problems.
 
 💡 **My Expertise:**
 - **Quantitative Analysis:** Utilizing maths and stats to derive quant models.
