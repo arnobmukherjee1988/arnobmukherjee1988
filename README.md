@@ -12,7 +12,7 @@
 - **Physics:** Deep understanding of fundamental physics principles.
 
 📫 **Reach Out:** arnobmukherjee1988@gmail.com
-
+<!-- 
 📊 **GitHub Stats:**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnobmukherjee1988)](https://github.com/arnobmukherjee1988/github-readme-stats)  
-[![Arnob's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnobmukherjee1988&show_icons=true&theme=default)](https://github.com/arnobmukherjee1988/github-readme-stats)
+[![Arnob's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnobmukherjee1988&show_icons=true&theme=default)](https://github.com/arnobmukherjee1988/github-readme-stats) -->
