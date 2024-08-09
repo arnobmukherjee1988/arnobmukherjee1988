@@ -1,4 +1,4 @@
-### Hello! 👋 I’m Arnob Mukherjee.
+### Arnob Mukherjee.
 
 🔬 **Physics PhD | Quantitative Analysis & Data Science Enthusiast**
 
