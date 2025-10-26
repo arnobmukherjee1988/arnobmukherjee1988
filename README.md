@@ -1,20 +1,21 @@
-### Arnob Mukherjee.
+### 👋 Arnob Mukherjee
 
-🔬 **Physics PhD | Quantitative Analysis & Data Science Enthusiast**
+🔬 **Physics PhD | Data Scientist | Quantitative Modeler**
 
-🔭 I’m interested in applying quantitative analysis and data-driven approaches to solve complex real-world problems.
+I apply quantitative modeling and data-driven analysis to understand complex systems and solve real-world problems.
 
-💡 **My Expertise:**
-- **Quantitative Analysis:** Utilizing maths and stats to derive quant models.
-- **Data Science:** Transforming and analyzing data into story.
-- **Programming:** Proficient in Python, Julia, SQL, bash for data manipulation and analysis.
-- **Quantitative Finance:** Applying mathematical models to financial data.
-- **Physics:** Strong background in basic physics principles.
+---
 
-✉️ **Email:** arnobmukherjee1988@gmail.com
+💡 **Core Expertise**
+- **Quantitative Modeling:** Mathematical and statistical modeling, optimization, simulation
+- **Data Science:** Predictive modeling, time-series forecasting, anomaly detection, data visualization
+- **Programming:** Python, Julia, SQL, Bash
+- **Finance & Risk Modeling:** Applying quantitative models to financial and market data
+- **Physics & Simulation:** Strong foundation in physical systems and computational modeling
 
-📊 **GitHub Stats:**
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnobmukherjee1988)](https://github.com/arnobmukherjee1988/github-readme-stats)  
-[![Arnob's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnobmukherjee1988&show_icons=true&theme=default)](https://github.com/arnobmukherjee1988/github-readme-stats) -->
+✉️ **Email:** arnobmukherjee1988@gmail.com  
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arnobmukherjee1988)](https://github.com/arnobmukherjee1988/github-readme-stats)
+---
+
+📊 **GitHub Activity**
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arnobmukherjee1988&layout=compact)
