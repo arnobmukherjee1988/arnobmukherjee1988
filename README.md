@@ -15,7 +15,3 @@ I apply quantitative modeling and data-driven analysis to understand complex sys
 
 ✉️ **Email:** arnobmukherjee1988@gmail.com  
 
----
-
-📊 **GitHub Activity**
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arnobmukherjee1988&layout=compact)
