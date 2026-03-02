@@ -1,8 +1,8 @@
 ### Arnob Mukherjee
 
-**Physics PhD | Data Scientist | Quantitative Analyst**
+**Machine Learning Engineer | Data Scientist | Physics PhD | **
 
-I apply quantitative modeling and data-driven analysis to understand complex systems and solve real-world problems.
+I build machine learning based predictive models and data-driven analysis to understand complex systems and solve real-world problems.
 
 ---
 
