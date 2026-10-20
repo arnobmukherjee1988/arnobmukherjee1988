@@ -1,17 +1,11 @@
 ### Arnob Mukherjee
 
-**Machine Learning Engineer | Data Scientist | Physics PhD | **
+**Data Scientist | Machine Learning Engineer | Physics PhD**
 
-I build machine learning based predictive models and data-driven analysis to understand complex systems and solve real-world problems.
+I build forecasting and ML systems for energy and time-dependent data, from model to deployment. Currently at ATO Energy, Stockholm, working on electricity price and transformer load forecasting. Previously 12+ papers in computational condensed matter physics. Based in Uppsala, Sweden.
 
----
+**Skills:** Python, SQL, time-series forecasting, LightGBM, A/B testing, AWS, Docker, dbt Core
 
-**Core Expertise**
-- **Quantitative Modeling:** Mathematical and statistical modeling, optimization, simulation
-- **Data Science:** Predictive modeling, time-series forecasting, anomaly detection, data visualization
-- **Programming:** Python, Julia, SQL, Bash
-- **Finance & Risk Modeling:** Applying quantitative models to financial and market data
-- **Physics & Simulation:** Strong foundation in physical systems and computational modeling
+**Projects:** [nordpool-price-forecasting](https://github.com/arnobmukherjee1988/nordpool-price-forecasting) | [weather-data-service](https://github.com/arnobmukherjee1988/weather-data-service) | [physics-rag](https://github.com/arnobmukherjee1988/physics-rag)
 
-**Email:** arnobmukherjee1988@gmail.com  
-
+**Email:** arnobmukherjee1988@gmail.com
